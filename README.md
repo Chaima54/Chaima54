@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Chaima Ben Arbia and I'm a Software Engineering and Data Science student with a strong passion for innovation, problem-solving, and developing scalable technical solutions.</h2>
+<h2 align="left">Hi 👋! My name is Chaima Ben Arbia and I'm a Software Engineer and Data Scientist with a strong passion for innovation, problem-solving, and developing scalable technical solutions.</h2>
 
 ###
 
